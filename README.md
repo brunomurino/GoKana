@@ -4,5 +4,5 @@ The goal of this project is to provide an easy way of practicing Hiragana/Kataka
 
 To run GoKana, just type
 ```sh
-. run.sh
+$ . run.sh
 ```
